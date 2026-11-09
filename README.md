@@ -1,18 +1,8 @@
-Sou Fabio Bueno, desenvolvedor de software e guitarrista
-
-### 🚀 No que estou trabalhando
-
-**Daily Basis:** atuo como desenvolvedor em consultorias, entregando soluções para grandes players do setor de serviços financeiros no Brasil
-
-**Founder do [Mublin](https://mublin.com)**: uma plataforma para músicos e profissionais da música que querem gerenciar seus projetos, ter mais visibilidade e mais oportunidades
+👋 Sou Fabio Bueno, desenvolvedor de software e guitarrista. Atuo como dev entregando soluções de tecnologia para empresas de diferentes setores. Sou também **founder do [Mublin](https://mublin.com)**, uma plataforma para músicos e profissionais da música que querem gerenciar seus projetos, ter mais visibilidade e  oportunidades.
 
 ### 🛠 Stack
 
-**Frontend:** JavaScript, TypeScript, React, Vite, Mantine UI, Jest/Vitest
-
-**Backend:** Supabase (BaaS), PostgreSQL, Node.js, Express
-
-**Deploy:** Vercel
+JavaScript, TypeScript, React, Vite, Mantine UI, Jest/Vitest, Supabase (BaaS), PostgreSQL, Vercel. Eventually, Node.js with Express
 
 <details>
 <summary>🇺🇸 Read in English</summary>
