@@ -1,6 +1,4 @@
-## 👋 Olá, eu sou Fabio Bueno
-
-Desenvolvedor de software e guitarrista 🎸
+Sou Fabio Bueno, desenvolvedor de software e guitarrista
 
 ### 🚀 No que estou trabalhando
 
@@ -15,10 +13,6 @@ Desenvolvedor de software e guitarrista 🎸
 **Backend:** Supabase (BaaS), PostgreSQL, Node.js, Express
 
 **Deploy:** Vercel
-
-### 🤝 Bora conversar
-
-Estou sempre aberto a colaborar em projetos interessantes e a trocar ideia sobre código, produto ou música.
 
 <details>
 <summary>🇺🇸 Read in English</summary>
